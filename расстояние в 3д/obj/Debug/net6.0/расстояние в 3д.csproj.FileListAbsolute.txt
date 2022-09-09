@@ -1,0 +1,15 @@
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\расстояние в 3д\bin\Debug\net6.0\расстояние в 3д.exe
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\расстояние в 3д\bin\Debug\net6.0\расстояние в 3д.deps.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\расстояние в 3д\bin\Debug\net6.0\расстояние в 3д.runtimeconfig.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\расстояние в 3д\bin\Debug\net6.0\расстояние в 3д.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\расстояние в 3д\bin\Debug\net6.0\расстояние в 3д.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\расстояние в 3д\obj\Debug\net6.0\расстояние в 3д.csproj.AssemblyReference.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\расстояние в 3д\obj\Debug\net6.0\расстояние в 3д.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\расстояние в 3д\obj\Debug\net6.0\расстояние в 3д.AssemblyInfoInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\расстояние в 3д\obj\Debug\net6.0\расстояние в 3д.AssemblyInfo.cs
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\расстояние в 3д\obj\Debug\net6.0\расстояние в 3д.csproj.CoreCompileInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\расстояние в 3д\obj\Debug\net6.0\расстояние в 3д.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\расстояние в 3д\obj\Debug\net6.0\refint\расстояние в 3д.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\расстояние в 3д\obj\Debug\net6.0\расстояние в 3д.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\расстояние в 3д\obj\Debug\net6.0\расстояние в 3д.genruntimeconfig.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\расстояние в 3д\obj\Debug\net6.0\ref\расстояние в 3д.dll

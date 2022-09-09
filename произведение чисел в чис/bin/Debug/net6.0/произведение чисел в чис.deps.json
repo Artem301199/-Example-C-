@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "произведение чисел в чис/1.0.0": {
+        "runtime": {
+          "произведение чисел в чис.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "произведение чисел в чис/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

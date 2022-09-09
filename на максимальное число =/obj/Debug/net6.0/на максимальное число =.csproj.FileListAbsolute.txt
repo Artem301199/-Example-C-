@@ -1,0 +1,15 @@
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на максимальное число =\obj\Debug\net6.0\на максимальное число =.csproj.AssemblyReference.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на максимальное число =\obj\Debug\net6.0\на максимальное число =.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на максимальное число =\obj\Debug\net6.0\на максимальное число =.AssemblyInfoInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на максимальное число =\obj\Debug\net6.0\на максимальное число =.AssemblyInfo.cs
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на максимальное число =\obj\Debug\net6.0\на максимальное число =.csproj.CoreCompileInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на максимальное число =\bin\Debug\net6.0\на максимальное число =.exe
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на максимальное число =\bin\Debug\net6.0\на максимальное число =.deps.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на максимальное число =\bin\Debug\net6.0\на максимальное число =.runtimeconfig.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на максимальное число =\bin\Debug\net6.0\на максимальное число =.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на максимальное число =\bin\Debug\net6.0\на максимальное число =.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на максимальное число =\obj\Debug\net6.0\на максимальное число =.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на максимальное число =\obj\Debug\net6.0\refint\на максимальное число =.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на максимальное число =\obj\Debug\net6.0\на максимальное число =.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на максимальное число =\obj\Debug\net6.0\на максимальное число =.genruntimeconfig.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на максимальное число =\obj\Debug\net6.0\ref\на максимальное число =.dll

@@ -1,0 +1,15 @@
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\вторая цифра\bin\Debug\net6.0\вторая цифра.exe
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\вторая цифра\bin\Debug\net6.0\вторая цифра.deps.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\вторая цифра\bin\Debug\net6.0\вторая цифра.runtimeconfig.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\вторая цифра\bin\Debug\net6.0\вторая цифра.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\вторая цифра\bin\Debug\net6.0\вторая цифра.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\вторая цифра\obj\Debug\net6.0\вторая цифра.csproj.AssemblyReference.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\вторая цифра\obj\Debug\net6.0\вторая цифра.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\вторая цифра\obj\Debug\net6.0\вторая цифра.AssemblyInfoInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\вторая цифра\obj\Debug\net6.0\вторая цифра.AssemblyInfo.cs
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\вторая цифра\obj\Debug\net6.0\вторая цифра.csproj.CoreCompileInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\вторая цифра\obj\Debug\net6.0\вторая цифра.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\вторая цифра\obj\Debug\net6.0\refint\вторая цифра.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\вторая цифра\obj\Debug\net6.0\вторая цифра.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\вторая цифра\obj\Debug\net6.0\вторая цифра.genruntimeconfig.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\вторая цифра\obj\Debug\net6.0\ref\вторая цифра.dll

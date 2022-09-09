@@ -1,0 +1,15 @@
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\три числа\bin\Debug\net6.0\три числа.exe
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\три числа\bin\Debug\net6.0\три числа.deps.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\три числа\bin\Debug\net6.0\три числа.runtimeconfig.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\три числа\bin\Debug\net6.0\три числа.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\три числа\bin\Debug\net6.0\три числа.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\три числа\obj\Debug\net6.0\три числа.csproj.AssemblyReference.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\три числа\obj\Debug\net6.0\три числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\три числа\obj\Debug\net6.0\три числа.AssemblyInfoInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\три числа\obj\Debug\net6.0\три числа.AssemblyInfo.cs
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\три числа\obj\Debug\net6.0\три числа.csproj.CoreCompileInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\три числа\obj\Debug\net6.0\три числа.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\три числа\obj\Debug\net6.0\refint\три числа.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\три числа\obj\Debug\net6.0\три числа.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\три числа\obj\Debug\net6.0\три числа.genruntimeconfig.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\три числа\obj\Debug\net6.0\ref\три числа.dll

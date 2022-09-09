@@ -1,0 +1,30 @@
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\массив\bin\Debug\net6.0\массив.exe
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\массив\bin\Debug\net6.0\массив.deps.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\массив\bin\Debug\net6.0\массив.runtimeconfig.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\массив\bin\Debug\net6.0\массив.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\массив\bin\Debug\net6.0\массив.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\массив\obj\Debug\net6.0\массив.csproj.AssemblyReference.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\массив\obj\Debug\net6.0\массив.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\массив\obj\Debug\net6.0\массив.AssemblyInfoInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\массив\obj\Debug\net6.0\массив.AssemblyInfo.cs
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\массив\obj\Debug\net6.0\массив.csproj.CoreCompileInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\массив\obj\Debug\net6.0\массив.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\массив\obj\Debug\net6.0\refint\массив.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\массив\obj\Debug\net6.0\массив.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\массив\obj\Debug\net6.0\массив.genruntimeconfig.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\массив\obj\Debug\net6.0\ref\массив.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\примеры или образцы\массив\bin\Debug\net6.0\массив.exe
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\примеры или образцы\массив\bin\Debug\net6.0\массив.deps.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\примеры или образцы\массив\bin\Debug\net6.0\массив.runtimeconfig.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\примеры или образцы\массив\bin\Debug\net6.0\массив.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\примеры или образцы\массив\bin\Debug\net6.0\массив.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\примеры или образцы\массив\obj\Debug\net6.0\массив.csproj.AssemblyReference.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\примеры или образцы\массив\obj\Debug\net6.0\массив.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\примеры или образцы\массив\obj\Debug\net6.0\массив.AssemblyInfoInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\примеры или образцы\массив\obj\Debug\net6.0\массив.AssemblyInfo.cs
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\примеры или образцы\массив\obj\Debug\net6.0\массив.csproj.CoreCompileInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\примеры или образцы\массив\obj\Debug\net6.0\массив.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\примеры или образцы\массив\obj\Debug\net6.0\refint\массив.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\примеры или образцы\массив\obj\Debug\net6.0\массив.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\примеры или образцы\массив\obj\Debug\net6.0\массив.genruntimeconfig.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\примеры или образцы\массив\obj\Debug\net6.0\ref\массив.dll

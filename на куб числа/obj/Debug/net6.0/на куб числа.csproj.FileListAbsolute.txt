@@ -1,0 +1,15 @@
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на куб числа\bin\Debug\net6.0\на куб числа.exe
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на куб числа\bin\Debug\net6.0\на куб числа.deps.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на куб числа\bin\Debug\net6.0\на куб числа.runtimeconfig.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на куб числа\bin\Debug\net6.0\на куб числа.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на куб числа\bin\Debug\net6.0\на куб числа.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на куб числа\obj\Debug\net6.0\на куб числа.csproj.AssemblyReference.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на куб числа\obj\Debug\net6.0\на куб числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на куб числа\obj\Debug\net6.0\на куб числа.AssemblyInfoInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на куб числа\obj\Debug\net6.0\на куб числа.AssemblyInfo.cs
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на куб числа\obj\Debug\net6.0\на куб числа.csproj.CoreCompileInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на куб числа\obj\Debug\net6.0\на куб числа.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на куб числа\obj\Debug\net6.0\refint\на куб числа.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на куб числа\obj\Debug\net6.0\на куб числа.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на куб числа\obj\Debug\net6.0\на куб числа.genruntimeconfig.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на куб числа\obj\Debug\net6.0\ref\на куб числа.dll

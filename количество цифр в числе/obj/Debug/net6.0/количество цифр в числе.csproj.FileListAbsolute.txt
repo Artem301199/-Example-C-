@@ -1,0 +1,15 @@
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\количество цифр в числе\obj\Debug\net6.0\количество цифр в числе.csproj.AssemblyReference.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\количество цифр в числе\obj\Debug\net6.0\количество цифр в числе.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\количество цифр в числе\obj\Debug\net6.0\количество цифр в числе.AssemblyInfoInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\количество цифр в числе\obj\Debug\net6.0\количество цифр в числе.AssemblyInfo.cs
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\количество цифр в числе\obj\Debug\net6.0\количество цифр в числе.csproj.CoreCompileInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\количество цифр в числе\bin\Debug\net6.0\количество цифр в числе.exe
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\количество цифр в числе\bin\Debug\net6.0\количество цифр в числе.deps.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\количество цифр в числе\bin\Debug\net6.0\количество цифр в числе.runtimeconfig.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\количество цифр в числе\bin\Debug\net6.0\количество цифр в числе.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\количество цифр в числе\bin\Debug\net6.0\количество цифр в числе.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\количество цифр в числе\obj\Debug\net6.0\количество цифр в числе.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\количество цифр в числе\obj\Debug\net6.0\refint\количество цифр в числе.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\количество цифр в числе\obj\Debug\net6.0\количество цифр в числе.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\количество цифр в числе\obj\Debug\net6.0\количество цифр в числе.genruntimeconfig.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\количество цифр в числе\obj\Debug\net6.0\ref\количество цифр в числе.dll

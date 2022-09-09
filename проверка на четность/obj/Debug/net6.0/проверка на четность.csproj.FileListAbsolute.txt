@@ -1,0 +1,15 @@
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\проверка на четность\bin\Debug\net6.0\проверка на четность.exe
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\проверка на четность\bin\Debug\net6.0\проверка на четность.deps.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\проверка на четность\bin\Debug\net6.0\проверка на четность.runtimeconfig.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\проверка на четность\bin\Debug\net6.0\проверка на четность.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\проверка на четность\bin\Debug\net6.0\проверка на четность.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\проверка на четность\obj\Debug\net6.0\проверка на четность.csproj.AssemblyReference.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\проверка на четность\obj\Debug\net6.0\проверка на четность.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\проверка на четность\obj\Debug\net6.0\проверка на четность.AssemblyInfoInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\проверка на четность\obj\Debug\net6.0\проверка на четность.AssemblyInfo.cs
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\проверка на четность\obj\Debug\net6.0\проверка на четность.csproj.CoreCompileInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\проверка на четность\obj\Debug\net6.0\проверка на четность.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\проверка на четность\obj\Debug\net6.0\refint\проверка на четность.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\проверка на четность\obj\Debug\net6.0\проверка на четность.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\проверка на четность\obj\Debug\net6.0\проверка на четность.genruntimeconfig.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\проверка на четность\obj\Debug\net6.0\ref\проверка на четность.dll

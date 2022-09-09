@@ -1,0 +1,15 @@
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\до числа все четные\bin\Debug\net6.0\до числа все четные.exe
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\до числа все четные\bin\Debug\net6.0\до числа все четные.deps.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\до числа все четные\bin\Debug\net6.0\до числа все четные.runtimeconfig.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\до числа все четные\bin\Debug\net6.0\до числа все четные.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\до числа все четные\bin\Debug\net6.0\до числа все четные.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\до числа все четные\obj\Debug\net6.0\до числа все четные.csproj.AssemblyReference.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\до числа все четные\obj\Debug\net6.0\до числа все четные.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\до числа все четные\obj\Debug\net6.0\до числа все четные.AssemblyInfoInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\до числа все четные\obj\Debug\net6.0\до числа все четные.AssemblyInfo.cs
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\до числа все четные\obj\Debug\net6.0\до числа все четные.csproj.CoreCompileInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\до числа все четные\obj\Debug\net6.0\до числа все четные.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\до числа все четные\obj\Debug\net6.0\refint\до числа все четные.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\до числа все четные\obj\Debug\net6.0\до числа все четные.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\до числа все четные\obj\Debug\net6.0\до числа все четные.genruntimeconfig.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\до числа все четные\obj\Debug\net6.0\ref\до числа все четные.dll

@@ -1,0 +1,15 @@
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на сумму до числа\obj\Debug\net6.0\на сумму до числа.csproj.AssemblyReference.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на сумму до числа\obj\Debug\net6.0\на сумму до числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на сумму до числа\obj\Debug\net6.0\на сумму до числа.AssemblyInfoInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на сумму до числа\obj\Debug\net6.0\на сумму до числа.AssemblyInfo.cs
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на сумму до числа\obj\Debug\net6.0\на сумму до числа.csproj.CoreCompileInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на сумму до числа\bin\Debug\net6.0\на сумму до числа.exe
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на сумму до числа\bin\Debug\net6.0\на сумму до числа.deps.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на сумму до числа\bin\Debug\net6.0\на сумму до числа.runtimeconfig.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на сумму до числа\bin\Debug\net6.0\на сумму до числа.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на сумму до числа\bin\Debug\net6.0\на сумму до числа.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на сумму до числа\obj\Debug\net6.0\на сумму до числа.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на сумму до числа\obj\Debug\net6.0\refint\на сумму до числа.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на сумму до числа\obj\Debug\net6.0\на сумму до числа.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на сумму до числа\obj\Debug\net6.0\на сумму до числа.genruntimeconfig.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\на сумму до числа\obj\Debug\net6.0\ref\на сумму до числа.dll

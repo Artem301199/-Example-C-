@@ -1,0 +1,15 @@
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\произведение чисел в чис\bin\Debug\net6.0\произведение чисел в чис.exe
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\произведение чисел в чис\bin\Debug\net6.0\произведение чисел в чис.deps.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\произведение чисел в чис\bin\Debug\net6.0\произведение чисел в чис.runtimeconfig.json
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\произведение чисел в чис\bin\Debug\net6.0\произведение чисел в чис.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\произведение чисел в чис\bin\Debug\net6.0\произведение чисел в чис.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\произведение чисел в чис\obj\Debug\net6.0\произведение чисел в чис.csproj.AssemblyReference.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\произведение чисел в чис\obj\Debug\net6.0\произведение чисел в чис.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\произведение чисел в чис\obj\Debug\net6.0\произведение чисел в чис.AssemblyInfoInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\произведение чисел в чис\obj\Debug\net6.0\произведение чисел в чис.AssemblyInfo.cs
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\произведение чисел в чис\obj\Debug\net6.0\произведение чисел в чис.csproj.CoreCompileInputs.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\произведение чисел в чис\obj\Debug\net6.0\произведение чисел в чис.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\произведение чисел в чис\obj\Debug\net6.0\refint\произведение чисел в чис.dll
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\произведение чисел в чис\obj\Debug\net6.0\произведение чисел в чис.pdb
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\произведение чисел в чис\obj\Debug\net6.0\произведение чисел в чис.genruntimeconfig.cache
+C:\Users\79515\OneDrive\Изображения\Снимки экрана\домашнее задание\trening\произведение чисел в чис\obj\Debug\net6.0\ref\произведение чисел в чис.dll
